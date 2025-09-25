@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Angular Developer** with **4 years of experience** building modern, scalable web applications. I love creating user-friendly interfaces and solving complex problems with clean, maintainable code.
+I'm a passionate **Angular Developer** with **4 years of experience** building web aplications.
 
 🌍 **Location:** Warsaw, Poland  
 💼 **Status:** Currently seeking new opportunities  
@@ -18,9 +18,7 @@ I'm a passionate **Angular Developer** with **4 years of experience** building m
 ## 🔍 I'm Looking For
 
 - Full-time Angular Developer positions
-- Remote or hybrid opportunities in Warsaw area
-- Projects involving modern web technologies
-- Teams that value clean code and best practices
+- Remote opportunities
 
 ## 📫 Let's Connect
 
