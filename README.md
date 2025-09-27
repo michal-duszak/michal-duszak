@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Michal Duszak! 👋
 
-<!--
-**michal-duszak/michal-duszak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate **Angular Developer** with **4 years of experience** building modern, scalable web applications. I love creating user-friendly interfaces and solving complex problems with clean, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 **Location:** Warsaw, Poland  
+💼 **Status:** Currently seeking new opportunities  
+🎯 **Focus:** Angular, TypeScript, JavaScript, Web Development
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3, SCSS
+- **Tools & Libraries:** RxJS, NgRx, Angular Material, Bootstrap
+- **Development:** Git, npm, Webpack, Angular CLI
+- **Testing:** Jasmine, Karma, Protractor
+
+## 🔍 I'm Looking For
+
+- Full-time Angular Developer positions
+- Remote or hybrid opportunities in Warsaw area
+- Projects involving modern web technologies
+- Teams that value clean code and best practices
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-duszak/)
+
+Feel free to reach out if you have exciting opportunities or just want to connect! 🤝
