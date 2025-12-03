@@ -1,6 +1,7 @@
 **Angular Developer** with **4 years**  of commercial experience.
 
 🌍 **Location:** Warsaw, Poland
+
 💼 **Status:** Currently seeking new opportunities  
 
 
