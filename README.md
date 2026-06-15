@@ -2,8 +2,6 @@
 
 🌍 **Location:** Warsaw, Poland
 
-💼 **Status:** Currently seeking new opportunities  
-
 
 ## 📫 Let's Connect
 
